@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ArtVenture</string>
+    <string name="forget_username_or_password">forget username or password?</string>
+    <string name="login">Login</string>
+    <string name="sign_up_for_free">Sign up for free!</string>
+    <string name="todo">TODO</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+</resources>
