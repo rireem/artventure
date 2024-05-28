@@ -6,4 +6,66 @@
     <string name="todo">TODO</string>
     <string name="username">username</string>
     <string name="password">password</string>
+    <string name="art_image_desc" />
+    <string name="large_text"/>
+
+
+
+    <!--
+    <string name="MonaLisa">
+        The "Mona Lisa" is a masterpiece of Renaissance art created by Leonardo da Vinci. Painted between 1503 and 1506, it is famous for the enigmatic smile of the woman depicted in the portrait. The paintings serene beauty and subtle details continue to captivate viewers from around the world.
+    </string>
+
+    <string name="StarryNight">
+        "Starry Night" is an iconic painting by the Dutch post-impressionist artist Vincent van Gogh. Completed in 1889, it depicts the night sky over the village of Saint-Rémy-de-Provence in southern France. Van Goghs swirling brushstrokes and vivid colors create a sense of movement and emotion, making it one of his most celebrated works.
+    </string>
+
+    <string name="ThePersistenceofMemory">
+        Salvador Dalís "The Persistence of Memory" is a surrealistic masterpiece that challenges our perception of time and reality. Painted in 1931, it features melting clocks draped over various objects in a dreamlike landscape. Dalís exploration of the subconscious and the nature of existence has made this painting an enduring symbol of surrealism.
+    </string>
+
+    <string name="TheScream">
+        "The Scream" is one of the most famous artworks by the Norwegian expressionist artist Edvard Munch. Created in 1893, it depicts a figure standing on a bridge, screaming in anguish as the sky swirls with intense colors. Munchs use of bold lines and distorted forms conveys the existential dread and anxiety of modern life.
+    </string>
+
+    <string name="GirlwithaPearlEarring">
+        "Girl with a Pearl Earring" is a captivating portrait by the Dutch Golden Age painter Johannes Vermeer, painted around 1665. The subject, often speculated to be a maid or a young woman of Vermeers acquaintance, gazes directly at the viewer with a sense of mystery and intimacy. The luminous pearl earring and subtle play of light and shadow add to the painting's allure.
+    </string>
+
+    <string name="TheNightWatch">
+        Rembrandts "The Night Watch" is a monumental group portrait commissioned by the civic militia of Amsterdam in 1642. Despite its name, the painting depicts a daytime scene of militia members gathered for a procession. His masterful use of light and shadow, along with his dynamic composition, creates a sense of drama and vitality.
+    </string>
+
+    <string name="TheBirthofVenus">
+        "The Birth of Venus" is a celebrated painting by the Italian Renaissance artist Sandro Botticelli, completed in the mid-1480s. It depicts the goddess Venus rising from the sea on a shell, surrounded by nymphs and winds. Botticellis graceful figures and delicate color palette capture the beauty and elegance of classical mythology.
+    </string>
+
+    <string name="TheLastSupper">
+        Leonardo da Vinci "The Last Supper" is a renowned mural painting located in the refectory of the Convent of Santa Maria delle Grazie in Milan, Italy. Completed around 1498, it depicts the moment Jesus announces that one of his disciples will betray him during the last supper. His meticulous attention to detail and composition make this painting a masterpiece of religious art.
+    </string>
+
+    <string name="Guernica">
+        "Guernica" is a powerful anti-war painting by the Spanish artist Pablo Picasso, completed in 1937. Inspired by the bombing of the town of Guernica during the Spanish Civil War, the painting depicts the horrors of war and the suffering of civilians. Picassos use of monochromatic tones and fragmented forms conveys the chaos and devastation of the event.
+    </string>
+
+    <string name="WaterLilies">
+        "Water Lilies" is a series of approximately 250 oil paintings by the French Impressionist Claude Monet, created between 1897 and 1926. These paintings depict Monets water garden at his home in Giverny, with its iconic Japanese bridge and the floating water lilies in various lighting conditions. Monets use of vibrant colors and loose brushwork captures the beauty and tranquility of nature.
+    </string>
+
+    <string-array name="descriptions">
+        <item>@string/MonaLisa</item>
+        <item>@string/StarryNight</item>
+        <item>@string/ThePersistenceofMemory</item>
+        <item>@string/TheScream</item>
+        <item>@string/GirlwithaPearlEarring</item>
+        <item>@string/TheNightWatch</item>
+        <item>@string/TheBirthofVenus</item>
+        <item>@string/TheLastSupper</item>
+        <item>@string/Guernica</item>
+        <item>@string/WaterLilies</item>
+    </string-array>
+
+
+-->
+
 </resources>

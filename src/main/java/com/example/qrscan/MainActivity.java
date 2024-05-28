@@ -46,10 +46,6 @@ public class  MainActivity extends AppCompatActivity {
             }
         });
 
-
-        
-        
-
     }
 
     private ActivityResultLauncher<Intent> scanBarcodeLauncher = registerForActivityResult(

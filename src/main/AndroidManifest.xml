@@ -38,6 +38,23 @@
         <activity
             android:name=".Register"
             android:exported="false" />
+        <activity
+            android:name=".Log"
+            android:exported="false" />
+
+        <activity
+            android:name=".ArtPiece"
+            android:exported="false" />
+        <activity
+            android:name=".ArtPieceAdapter"
+            android:exported="false" />
+
+        <!--
+                <activity
+                    android:name=".displayExtraDescriptions"
+                    android:exported="false" />
+
+        -->
 
 
 
